@@ -41,7 +41,7 @@ Android Studio Kotlin Каркас - макет. Иллюстрация комп
         app:layout_constraintTop_toTopOf="parent " />
 
 </LinearLayout>
-![qqqqqqq](https://user-images.githubusercontent.com/112688317/202257135-b15a0b13-6b4a-4816-bb7a-7a0337be58b4.png)
+(https://user-images.githubusercontent.com/112688317/202257135-b15a0b13-6b4a-4816-bb7a-7a0337be58b4.png)
 <?версия xml="1.0" кодировка="utf-8"?>
 <Линейное  описание xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -96,7 +96,6 @@ Android Studio Kotlin Каркас - макет. Иллюстрация комп
 
     </LinearLayout>
 </LinearLayout>
-![1111]
 (https://user-images.githubusercontent.com/112688317/202256582-2cf244d5-b35a-4f0f-9794-37652b9dd433.png)
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
